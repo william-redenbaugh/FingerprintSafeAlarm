@@ -1,0 +1,9 @@
+[submodule "FingerprintSafe/lib/TeensyOS"]
+	path = FingerprintSafe/lib/TeensyOS
+	url = git@github.com:william-redenbaugh/TeensyOS.git
+[submodule "FingerprintSafe/lib/Adafruit-Fingerprint-Sensor-Library"]
+	path = FingerprintSafe/lib/Adafruit-Fingerprint-Sensor-Library
+	url = git@github.com:adafruit/Adafruit-Fingerprint-Sensor-Library.git
+[submodule "FingerprintSafe/lib/Arduino-LiquidCrystal-I2C-library"]
+	path = FingerprintSafe/lib/Arduino-LiquidCrystal-I2C-library
+	url = git@github.com:william-redenbaugh/Arduino-LiquidCrystal-I2C-library.git
